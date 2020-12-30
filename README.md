@@ -1,5 +1,5 @@
 ## AgentWorld
-Agent goal: collect all the objects and then return in the initial position.<br/>
+Agent goal: collect all the objects and then return to the initial position.<br/>
 The possible actions of the agent are:<br/>
 - go forward one square.
 - turn left.
